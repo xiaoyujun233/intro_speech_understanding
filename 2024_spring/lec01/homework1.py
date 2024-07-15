@@ -12,6 +12,6 @@ string1 should be changed from "change this" to "test"
 string2 should be changed from "change this" to "hello"
 '''
 
-string1 = "test 1"
+string1 = "test"
 
-string2 = "test 2"
+string2 = "hello"
